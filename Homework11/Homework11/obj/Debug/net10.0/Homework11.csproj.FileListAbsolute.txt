@@ -1,0 +1,15 @@
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\bin\Debug\net10.0\Homework11.exe
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\bin\Debug\net10.0\Homework11.deps.json
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\bin\Debug\net10.0\Homework11.runtimeconfig.json
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\bin\Debug\net10.0\Homework11.dll
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\bin\Debug\net10.0\Homework11.pdb
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\obj\Debug\net10.0\Homework11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\obj\Debug\net10.0\Homework11.AssemblyInfoInputs.cache
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\obj\Debug\net10.0\Homework11.AssemblyInfo.cs
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\obj\Debug\net10.0\Homework11.csproj.CoreCompileInputs.cache
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\obj\Debug\net10.0\Homework11.sourcelink.json
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\obj\Debug\net10.0\Homework11.dll
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\obj\Debug\net10.0\refint\Homework11.dll
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\obj\Debug\net10.0\Homework11.pdb
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\obj\Debug\net10.0\Homework11.genruntimeconfig.cache
+C:\Users\ggong\OneDrive\Desktop\HomeWorks\Homework11\Homework11\obj\Debug\net10.0\ref\Homework11.dll
